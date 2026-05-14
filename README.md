@@ -72,21 +72,26 @@ The project includes:
 
 ## 📸 Visualizations
 
-### 🔹 Global Sales Distribution
-![Global Sales](images/global_sales.png)
+The following visualizations were created during the analysis to explore patterns in the dataset:
 
-### 🔹 Top Platforms
-![Top Platforms](images/top_platforms.png)
-
-### 🔹 Genre Analysis
-![Genre Analysis](images/genre_analysis.png)
-
-### 🔹 Regional Sales Comparison
-![Regional Sales](images/regional_sales.png)
-
-### 🔹 Correlation Heatmap
-![Heatmap](images/correlation_heatmap.png)
-
+📊 Bar Charts
+Top platforms by total sales
+Most popular genres
+Leading publishers in the gaming industry
+📉 Histograms
+Distribution of global sales
+Frequency of game releases across different ranges
+📦 Box Plots
+Detection of outliers in sales data
+Comparison of sales spread across genres and platforms
+🔥 Heatmap
+Correlation matrix of numerical features (NA, EU, JP, Global Sales)
+📈 Line Plots
+Year-wise trend of video game sales
+Market growth and decline patterns over time
+🥧 Pie Charts
+Regional sales distribution (NA vs EU vs JP vs Other)
+Market share breakdown by region or platform
 ---
 
 ## 📌 Key Insights
