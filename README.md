@@ -31,7 +31,7 @@ The dataset includes information such as:
   - Europe (EU_Sales)
   - Japan (JP_Sales)
   - Other Regions
-  - Global Sales
+  - Global Sales  
 
 ---
 
@@ -52,7 +52,7 @@ The dataset includes information such as:
 - Analyze global and regional sales trends  
 - Identify top platforms, genres, and publishers  
 - Visualize relationships between features  
-- Extract actionable insights from data  
+- Extract actionable insights from the data  
 
 ---
 
@@ -74,24 +74,30 @@ The project includes:
 
 The following visualizations were created during the analysis to explore patterns in the dataset:
 
-📊 Bar Charts
-Top platforms by total sales
-Most popular genres
-Leading publishers in the gaming industry
-📉 Histograms
-Distribution of global sales
-Frequency of game releases across different ranges
-📦 Box Plots
-Detection of outliers in sales data
-Comparison of sales spread across genres and platforms
-🔥 Heatmap
-Correlation matrix of numerical features (NA, EU, JP, Global Sales)
-📈 Line Plots
-Year-wise trend of video game sales
-Market growth and decline patterns over time
-🥧 Pie Charts
-Regional sales distribution (NA vs EU vs JP vs Other)
-Market share breakdown by region or platform
+### 📊 Bar Charts
+- Top platforms by total sales  
+- Most popular genres  
+- Leading publishers in the gaming industry  
+
+### 📉 Histograms
+- Distribution of global sales  
+- Frequency of game releases across different ranges  
+
+### 📦 Box Plots
+- Detection of outliers in sales data  
+- Comparison of sales spread across genres and platforms  
+
+### 🔥 Heatmap
+- Correlation matrix of numerical features (NA, EU, JP, Global Sales)  
+
+### 📈 Line Plots
+- Year-wise trend of video game sales  
+- Market growth and decline patterns over time  
+
+### 🥧 Pie Charts
+- Regional sales distribution (NA vs EU vs JP vs Other)  
+- Market share breakdown by region or platform  
+
 ---
 
 ## 📌 Key Insights
@@ -107,14 +113,9 @@ Market share breakdown by region or platform
 ## 🚀 How to Run This Project
 
 ```bash
-# Clone repository
 git clone https://github.com/your-username/video-game-sales-analysis.git
-
-# Move into directory
 cd video-game-sales-analysis
 
-# Install dependencies
 pip install pandas numpy matplotlib seaborn
 
-# Run notebook
 jupyter notebook
