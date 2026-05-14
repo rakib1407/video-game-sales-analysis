@@ -110,12 +110,3 @@ The following visualizations were created during the analysis to explore pattern
 
 ---
 
-## 🚀 How to Run This Project
-
-```bash
-git clone https://github.com/your-username/video-game-sales-analysis.git
-cd video-game-sales-analysis
-
-pip install pandas numpy matplotlib seaborn
-
-jupyter notebook
